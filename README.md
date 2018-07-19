@@ -1,5 +1,5 @@
-# algorithms
+# Algorithms
 some examples of commonly used algorithms
 
-#backtracking
+### Backtracking
 the 4 queens problem as example
